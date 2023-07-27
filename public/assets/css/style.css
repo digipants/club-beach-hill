@@ -6486,6 +6486,7 @@ blockquote {
 }
 
 .stepi-3 {
+  width: 100px;
   height: 40px;
   display: block;
   position: absolute;
